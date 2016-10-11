@@ -26,3 +26,5 @@ class Card {
     return c;
   }
 }
+
+module.exports = Card;
